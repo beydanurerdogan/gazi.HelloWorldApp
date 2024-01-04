@@ -36,11 +36,25 @@
 
             #endregion
 
-            Console.WriteLine("İsminizi Giriniz:");
-            string isim = Console.ReadLine();
-            Console.WriteLine("Soyisiminizi Giriniz");
-            string soyisim = Console.ReadLine();
-            Console.WriteLine($"Merhaba {isim} {soyisim}");
+
+
+
+
+            //TÜR Dönüşümleri (Type Casting)
+
+            //byte sayı = 50;
+            //int number = sayı; //Implicit Typ Casting
+            // Küçük türden büyük türe yapılan dönüşümler otomatik olarak gerçekleştirilir.
+
+            //checked
+            //{
+            //    int sayı = 20;
+            //    byte number = (byte)sayı;//Explicit Type Casting 
+            //    Console.WriteLine(number);
+            //}
+            //RİSK
+            //Büyük türden -> Küçük türe
+            //Veri kaybı ihtimali!
 
             Console.ReadKey();
 
