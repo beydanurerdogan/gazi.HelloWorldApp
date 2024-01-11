@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gazi.KararYapilariApp", "Ga
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gazi.DöngülerApp", "Gazi.DöngülerApp\Gazi.DöngülerApp.csproj", "{77AFA98E-F307-444D-B1D2-10B19BFFD03E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdevApp", "OdevApp\OdevApp.csproj", "{3C4F341B-0BB5-4ADE-A3A3-610FB7A96364}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OdevApp", "OdevApp\OdevApp.csproj", "{3C4F341B-0BB5-4ADE-A3A3-610FB7A96364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gazi.Diziler.App", "Gazi.Diziler.App\Gazi.Diziler.App.csproj", "{A7FDF1F6-A454-406D-B4D1-3AA91AD0AFFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3C4F341B-0BB5-4ADE-A3A3-610FB7A96364}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C4F341B-0BB5-4ADE-A3A3-610FB7A96364}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C4F341B-0BB5-4ADE-A3A3-610FB7A96364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7FDF1F6-A454-406D-B4D1-3AA91AD0AFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FDF1F6-A454-406D-B4D1-3AA91AD0AFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FDF1F6-A454-406D-B4D1-3AA91AD0AFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FDF1F6-A454-406D-B4D1-3AA91AD0AFFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
